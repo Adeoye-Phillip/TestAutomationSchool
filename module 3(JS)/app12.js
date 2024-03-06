@@ -17,4 +17,4 @@ function addNumber(firstNumber, secondNumber) {
     const sum = firstNumber + secondNumber;
     console.log(sum);
 }
-addNumber(30, 40);
+addNumber(30.2, 40.5);
