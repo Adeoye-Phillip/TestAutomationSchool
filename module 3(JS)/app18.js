@@ -11,7 +11,7 @@ console.log(thirdElement) // When logged, this should display the index 4 elemen
 // console.log(myWeekArray) // When logged, this should display value newly assigned to the index 4 element in myWeekArray, which is now 45
 
 
-// This can be used to assign elemnts to an empty array
+// This can be used to assign elements to an empty array
 emptyArray [0] = 'First Element'
 emptyArray [1] = 'Second Element'
 emptyArray [3] = 'Fourth Element'

@@ -28,7 +28,7 @@ console.log(months.slice(2,6)) // The slice method will return the removed value
 
 
 // SPLICE() to remove elements from an array
-// SCENARIO: We have an array of months1, we used Splice() to remove a number of elemnts from the array
+// SCENARIO: We have an array of months1, we used Splice() to remove a number of elements from the array
 const months1 = ['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
 // months1.splice(3,9) // The start index, and the number of elements to be removed
 // console.log(months1) // When you log the months1, the modified array will be displayed
